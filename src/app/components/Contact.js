@@ -52,7 +52,7 @@ export default function Pricing() {
           <List spacing={3}>
             <ListItem>
               <ListIcon as={CheckIcon} color="green.400" />
-              Email:  malwriter123@gmail.com
+              Email: maleena.sohail@gmail.com
             </ListItem>
             {/* <ListItem>
               <ListIcon as={CheckIcon} color="green.400" />
